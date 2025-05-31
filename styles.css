@@ -2,7 +2,8 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
-	justify-content:space-around;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 	background-color:blue;
 	
 }
